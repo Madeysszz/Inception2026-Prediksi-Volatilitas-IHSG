@@ -1,4 +1,5 @@
 # Sistem Peringatan Dini Volatilitas IHSG
+![aset1][Screenshot 2026-11-17 124519.png]
 
 Proyek Data Science Competition oleh tim **Habis Lomba Ini Kita Naik Gunung** untuk studi kasus PT Investion. Notebook mengeksplorasi prediksi volatilitas IHSG lima hari ke depan, membentuk alarm risiko, dan menjelaskan prediksi dengan SHAP.
 
